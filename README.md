@@ -1,5 +1,7 @@
 # theviewfromhere.today
 
+Git repo with Wordpress blog theviewfromhere.today. Follow instructions below to run the blog if needed to migrate to a new Wordpress instance.
+
 ## WPDC - WordPress Docker Compose
 
 Easy WordPress development with Docker and Docker Compose.
